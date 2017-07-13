@@ -1,0 +1,12 @@
+{
+  "ID":"B2Z2C23B083D411GH66FF0C79D6C2A6H",
+  "ActionKeyword":">>",
+  "Name":"Cygwin shell",
+  "Description":"Run command in cygwin shell.",
+  "Author":"Akrasia",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://github.com/Akrasia/cyg-commander",
+  "IcoPath": "icons\\console.png",
+  "ExecuteFileName":"main.py"
+}
