@@ -1,7 +1,7 @@
 {
   "ID":"B2Z2C23B083D411GH66FF0C79D6C2A6H",
   "ActionKeyword":">>",
-  "Name":"Cygwin shell",
+  "Name":"Cygwin Commander",
   "Description":"Run command in cygwin shell.",
   "Author":"Akrasia",
   "Version":"1.0.0",
